@@ -1,2 +1,2 @@
-GitHub Checks API  
+GitHub Checks API
 recommit
