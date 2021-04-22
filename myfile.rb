@@ -1,4 +1,5 @@
 # The Octocat class tells you about different breeds of Octocat
+# frozen_string_literal: true
 class Octocat
   def initialize(name, *breeds)
     # Instance variables
