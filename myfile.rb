@@ -1,12 +1,13 @@
-# The Octocat class tells you about different breeds of Octocat
 # frozen_string_literal: true
+# The Octocat class tells you about different breeds of Octocat
 class Octocat
+  # Initialize
   def initialize(name, *breeds)
     # Instance variables
     @name = name
     @breeds = breeds
   end
-
+  # display
   def display
     breed = @breeds.join("-")
 
