@@ -1,6 +1,6 @@
-GitHub Checks API  
-Added feature20  
-recommit  
+GitHub Checks API
+Added feature20
+recommit
 recommit
 recommit
 recommit
