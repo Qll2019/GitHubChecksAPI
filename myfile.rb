@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 # Differnt Comment
+# Another Comment
 
 # The Octocat class tells you about different breeds of Octocat
 class Octocat
