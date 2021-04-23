@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-# addeding a comment to the ruby file.
+# Differnt Comment
 
 # The Octocat class tells you about different breeds of Octocat
 class Octocat
