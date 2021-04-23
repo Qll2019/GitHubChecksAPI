@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# Rock and Roll
 
 # The Octocat class tells you about different breeds of Octocat
 class Octocat
