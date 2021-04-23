@@ -8,6 +8,7 @@ class Octocat
     @name = name
     @breeds = breeds
   end
+  
   # display
   def display
     breed = @breeds.join("-")
