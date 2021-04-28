@@ -15,6 +15,6 @@ class Octocat
     puts "I am of #{breed} breed, and my name is #{@name}."
   end
 end
-# test1
+# testtest
 m = Octocat.new("Mona", "cat", "octopus")
 m.display
